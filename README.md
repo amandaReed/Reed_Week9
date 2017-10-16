@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Rock, Paper, Scissors Generator
 
-You can use the [editor on GitHub](https://github.com/amandaReed/Reed_Week9/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello everyone, and welcome to my page. I'll be writing a quick description on the IOS app I am creating. I don't really have a creative name for the project yet but it is basically a random generator for the popular game "Rock, Paper, Scissors" (or "Janken" in Japan). The details on the app are as follows:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- The layout is simple and minimalistic.
+- You have a choice of three buttons to press: Rock, Paper, and Scissors.
+- The generator will randomly select a response from the three options, as well.
 
-### Markdown
+# This project is still in the works!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amandaReed/Reed_Week9/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Updates
+I'll be updating this page once more of the app comes together. I'm still thinking on whether or not I want some artwork involved in the app. Otherwise, nothing new at this time.
