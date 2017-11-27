@@ -6,7 +6,7 @@ Hello everyone, and welcome to my page. I'll be writing a quick description on t
 - You have a choice of three buttons to press: Rock, Paper, and Scissors.
 - The generator will randomly select a response from the three options, as well.
 
-# This project is still in the works!
+# This project is currently on GitHub! Will continue to work on it!
 
 ## Updates
-I'll be updating this page once more of the app comes together. I'm still thinking on whether or not I want some artwork involved in the app. Otherwise, nothing new at this time.
+11/27/2017 - Started base of the project. Using a template from another Github to help me out and I will go from there. There will be no creative name, just the basic name "Rock, Paper, Scissors". Will finish this up for my school project.
